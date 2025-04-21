@@ -7,3 +7,10 @@
 ✅ I'm passionate about pushing the boundaries of what's possible and am seeking challenging opportunities to contribute to world-class research or groundbreaking engineering projects.
 
 🚀 Let’s build something groundbreaking together!
+
+# Recent Projects
+
+- [ANNotate](https://ann.hanl.in/) - Protein Function Prediction using Deep Learning
+- [Vue 3 Isotope](https://vue3-isotope.hanl.in/) - Filter & sort magical layouts for Vue 3
+- [Vue 3 Trend](https://vue3-trend.hanl.in/) - Simple, elegant spark lines for Vue 3
+- [Vue 3 Bars](https://vue3-bars.hanl.in/) - Simple, elegant spark bars for Vue 3
