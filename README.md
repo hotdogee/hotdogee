@@ -14,7 +14,7 @@
   - Tensorflow, RNN, Pfam, Google Cloud Run, Google Compute Engine, GitHub Pages
 - [SCADA/IoT](https://scada.hanl.in/) - Modern Industrial Monitoring combining software-defined PLCs, a scalable supervisor backend, and a responsive web HMI
   - NodeJS, WebSockets, MongoDB, Vue 3, TypeScript, Oracle Cloud Infrastructure, Cloudflare Pages
-- [Origami Moving Cubes Drawing Designer](https://origami-moving-cubes-drawing-designer.vercel.app/) - Interactive Designer
+- [Origami Moving Cubes Drawing Designer](https://cubes.hanl.in/) - Interactive Designer
   - React, NextJS, SSR, SSG, Tailwind CSS, Canvas API, CSS Animations
 
 # Recent Libraries
