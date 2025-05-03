@@ -11,6 +11,14 @@
 # Recent Projects
 
 - [ANNotate](https://ann.hanl.in/) - Protein Function Prediction using Deep Learning
+  - Tensorflow, RNN, Pfam, Google Cloud Run, Google Compute Engine, GitHub Pages
+- [SCADA/IoT](https://scada.hanl.in/) - Modern Industrial Monitoring combining software-defined PLCs, a scalable supervisor backend, and a responsive web HMI
+  - NodeJS, WebSockets, MongoDB, Vue 3, TypeScript, Oracle Cloud Infrastructure, Cloudflare Pages
+- [Origami Moving Cubes Drawing Designer](https://origami-moving-cubes-drawing-designer.vercel.app/) - Interactive Designer
+  - React, NextJS, SSR, SSG, Tailwind CSS, Canvas API, CSS Animations
+
+# Recent Libraries
+
 - [Vue 3 Isotope](https://vue3-isotope.hanl.in/) - Filter & sort magical layouts for Vue 3
 - [Vue 3 Trend](https://vue3-trend.hanl.in/) - Simple, elegant spark lines for Vue 3
 - [Vue 3 Bars](https://vue3-bars.hanl.in/) - Simple, elegant spark bars for Vue 3
